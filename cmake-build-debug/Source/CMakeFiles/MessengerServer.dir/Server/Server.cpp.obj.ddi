@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Source\\CMakeFiles\\MessengerServer.dir\\Server\\Server.cpp.obj",
+            "outputs": [
+                "C:\\Projects\\DarkSpace\\MessengerServer\\cmake-build-debug\\vc140.pdb",
+                "Source\\CMakeFiles\\MessengerServer.dir\\Server\\Server.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

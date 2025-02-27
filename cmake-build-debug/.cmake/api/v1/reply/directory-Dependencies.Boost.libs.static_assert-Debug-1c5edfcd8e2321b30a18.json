@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Dependencies/Boost/libs/static_assert",
+		"source" : "Dependencies/Boost/libs/static_assert"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Dependencies/Boost/libs/lexical_cast",
+		"source" : "Dependencies/Boost/libs/lexical_cast"
+	}
+}

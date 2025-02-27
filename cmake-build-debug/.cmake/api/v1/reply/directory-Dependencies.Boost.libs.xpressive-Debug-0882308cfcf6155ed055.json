@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Dependencies/Boost/libs/xpressive",
+		"source" : "Dependencies/Boost/libs/xpressive"
+	}
+}

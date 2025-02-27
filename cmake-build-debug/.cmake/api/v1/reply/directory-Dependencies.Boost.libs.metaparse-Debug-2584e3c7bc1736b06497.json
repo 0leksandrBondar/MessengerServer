@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Dependencies/Boost/libs/metaparse",
+		"source" : "Dependencies/Boost/libs/metaparse"
+	}
+}

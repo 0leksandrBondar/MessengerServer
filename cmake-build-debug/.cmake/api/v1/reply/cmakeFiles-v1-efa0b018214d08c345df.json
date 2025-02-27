@@ -1,0 +1,2577 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/*.hpp",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/array.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/basic_parser.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/basic_parser_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/conversion.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/debug_printers.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/array.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/buffer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/chars_format.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/compute_float64.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/config.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/emulated128.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/ascii_number.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/bigint.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/constexpr_feature_detect.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/decimal_to_binary.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/digit_comparison.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/fast_float.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/fast_table.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/float_common.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/fast_float/parse_number.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/from_chars_float_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/from_chars_integer_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/from_chars_result.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/integer_search_trees.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/parser.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/detail/significand_tables.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/from_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/limits.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/config.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/default_resource.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/digest.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/except.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/format.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/gdb_printers.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/handler.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/array.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/stack.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/literals.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/object.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/parse_into.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/detail/common.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/detail/d2s.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/detail/d2s_full_table.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/detail/d2s_intrinsics.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/detail/digit_table.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/ryu.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/sbo_buffer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/shared_resource.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/sse2.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/stack.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/stream.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/string_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/utf8.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/value.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/value_from.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/value_to.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/writer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/fwd.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/array.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/conversion.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/object.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/parse_into.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/serialize.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/serializer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/value.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/value_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/visit.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/is_deallocate_trivial.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/kind.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/monotonic_resource.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/null_resource.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/object.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/parse.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/parse_into.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/parse_options.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/parser.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/pilfer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/result_for.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/serialize.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/serialize_options.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/serializer.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/set_pointer_options.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/src.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/static_resource.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/storage_ptr.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/stream_parser.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/string_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/value.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/value_from.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/value_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/value_stack.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/value_to.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/visit.hpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/*.ipp",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/charconv/impl/from_chars.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/default_resource.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/except.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/format.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/handler.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/shared_resource.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/stack.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/impl/string_impl.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/detail/ryu/impl/d2s.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/array.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/error.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/kind.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/monotonic_resource.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/null_resource.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/object.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/parse.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/parser.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/pointer.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/serialize.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/serializer.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/static_resource.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/stream_parser.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/string.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/value.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/value_ref.ipp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/impl/value_stack.ipp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/*.natvis",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/json/include/boost/json/json.natvis"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/*.hpp",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/static_string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/static_string/config.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/static_string/static_string.hpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/*.ipp",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_string/include/boost/*.natvis",
+			"paths" : [],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/*.hpp",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/authority_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/decode_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/any_params_iter.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/any_segments_iter.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/config.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/encode.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/except.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/format_args.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/impl/format_args.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/optional_string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/params_iter_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/parts_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/replacement_field_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/segments_iter_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/string_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/url_impl.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/detail/vformat.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/encode.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/encoding_opts.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/error_types.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/format.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/all_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/alnum_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/alpha_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/charset.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/ci_string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/dec_octet_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/delim_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/detail/charset.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/detail/ci_string.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/detail/recycled.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/detail/tuple.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/digit_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/hexdig_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/not_empty_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/optional_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/parse.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/range_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/recycled.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/token_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/tuple_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/unsigned_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/impl/variant_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/literal_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/lut_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/not_empty_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/optional_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/parse.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/range_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/recycled.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/string_token.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/string_view_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/token_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/tuple_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/type_traits.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/unsigned_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/variant_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/grammar/vchars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/host_type.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/ignore_case.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/decode_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/encode.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/error.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/params_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/params_encoded_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/params_encoded_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/params_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/segments_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/segments_encoded_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/segments_encoded_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/impl/segments_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/ipv4_address.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/ipv6_address.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/optional.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/param.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_encoded_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_encoded_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_encoded_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/params_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/parse.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/parse_path.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/parse_query.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/pct_string_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/absolute_uri_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/authority_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/detail/path_rules.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/gen_delim_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/impl/pct_encoded_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/ipv4_address_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/ipv6_address_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/origin_form_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/pchars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/pct_encoded_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/query_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/relative_ref_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/reserved_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/sub_delim_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/unreserved_chars.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/uri_reference_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/rfc/uri_rule.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/scheme.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_encoded_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_encoded_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_encoded_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_ref.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/segments_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/src.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/static_url.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/string_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/url.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/url_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/url_view.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/url_view_base.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/urls.hpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/variant.hpp"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/*.natvis",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/include/boost/url/url.natvis"
+			],
+			"recurse" : true
+		},
+		{
+			"expression" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/*.cpp",
+			"paths" : 
+			[
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/authority_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/decode_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/any_params_iter.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/any_segments_iter.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/decode.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/except.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/format_args.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/normalize.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/params_iter_impl.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/pattern.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/pct_format.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/replacement_field_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/segments_iter_impl.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/url_impl.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/detail/vformat.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/error.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/ci_string.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/dec_octet_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/delim_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/detail/recycled.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/error.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/literal_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/grammar/string_view_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/ipv4_address.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/ipv6_address.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_encoded_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_encoded_ref.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_encoded_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_ref.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/params_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/parse.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/parse_path.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/parse_query.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/pct_string_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/absolute_uri_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/authority_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/h16_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/hier_part_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/host_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/ip_literal_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/ipv6_addrz_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/ipvfuture_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/port_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/relative_part_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/scheme_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/detail/userinfo_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/ipv4_address_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/ipv6_address_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/origin_form_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/query_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/relative_ref_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/uri_reference_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/rfc/uri_rule.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/scheme.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_encoded_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_encoded_ref.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_encoded_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_ref.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/segments_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/static_url.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/url.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/url_base.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/url_view.cpp",
+				"C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/url/src/url_view_base.cpp"
+			],
+			"recurse" : true
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "Source/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtInstallPaths.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtFeature.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtFeatureCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/Qt6Dependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/FindWrapAtomic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Core/Qt6CoreVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindVulkan.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QGifPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QSvgPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Qt/6.8.2/msvc2022_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/tools/cmake/include/BoostRoot.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/tools/cmake/include/BoostMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/tools/cmake/include/BoostInstall.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/tools/cmake/include/BoostMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/accumulators/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/algorithm/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/align/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/any/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/array/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/asio/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/assert/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/assign/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/atomic/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/atomic/cmake/BoostLibraryIncludes.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/beast/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/bimap/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/bind/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/callable_traits/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/charconv/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceRuns.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/chrono/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/circular_buffer/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/cobalt/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/cobalt/cmake/CheckRequirements.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/cobalt/cmake/coroutine.cpp"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/cobalt/cmake/concepts.cpp"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/cobalt/cmake/memory_resource.cpp"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/compat/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/compute/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/concept_check/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/config/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/container/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/container_hash/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/context/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.5/CMakeASM_MASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeASM_MASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/contract/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/conversion/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/convert/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/core/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/coroutine/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/coroutine2/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/crc/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/date_time/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/describe/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/detail/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/dll/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/dynamic_bitset/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/endian/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/exception/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/fiber/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/filesystem/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/filesystem/cmake/BoostLibraryIncludes.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/flyweight/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/foreach/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/format/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/function/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/function_types/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/functional/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/fusion/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/geometry/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/gil/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/graph/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/hana/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/hash2/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/headers/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/heap/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/histogram/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/hof/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/icl/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/integer/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/interprocess/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/intrusive/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/io/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/iostreams/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindBZip2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindLibLZMA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/iterator/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/json/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/json/pretty_printers/FindBoostPrettyPrinters.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/lambda/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/lambda2/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/leaf/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/lexical_cast/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/local_function/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/locale/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindICU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindIconv.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/lockfree/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/log/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/log/cmake/BoostLibraryIncludes.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/logic/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/math/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/metaparse/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/move/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/mp11/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/mpl/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/mqtt5/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/mqtt5/cmake/project-is-top-level.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/msm/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/multi_array/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/multi_index/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/multiprecision/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/mysql/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/nowide/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/nowide/cmake/BoostAddWarnings.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/numeric/conversion/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/numeric/interval/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/numeric/odeint/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/numeric/ublas/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/optional/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/outcome/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/parameter/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/parser/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/pfr/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/phoenix/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/poly_collection/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/polygon/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/pool/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/predef/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/preprocessor/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/process/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/program_options/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/property_map/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/property_tree/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/proto/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/ptr_container/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/qvm/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/random/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/range/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/ratio/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/rational/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/redis/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/regex/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindICU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/safe_numerics/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/scope/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/scope_exit/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/serialization/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/signals2/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/smart_ptr/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/sort/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/spirit/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/stacktrace/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/statechart/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/static_assert/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/static_string/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/stl_interfaces/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/system/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/test/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/thread/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/throw_exception/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/timer/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/tokenizer/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/tti/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/tuple/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/type_erasure/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/type_index/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/type_traits/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/typeof/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/units/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/unordered/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/url/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/utility/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/uuid/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/variant/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/variant2/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/vmd/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/wave/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/winapi/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/xpressive/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/Boost/libs/yap/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/SPDLog/CMakeLists.txt"
+		},
+		{
+			"path" : "Dependencies/SPDLog/cmake/utils.cmake"
+		},
+		{
+			"path" : "Dependencies/SPDLog/cmake/ide.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/JetBrains/CLion 2024.3/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckSymbolExists.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Projects/DarkSpace/MessengerServer/cmake-build-debug",
+		"source" : "C:/Projects/DarkSpace/MessengerServer"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

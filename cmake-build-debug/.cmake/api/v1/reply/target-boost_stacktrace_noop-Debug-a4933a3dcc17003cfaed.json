@@ -1,0 +1,193 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/libboost_stacktrace_noop-vc143-mt-gd-x64-1_88.lib"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"stacktrace_add_library",
+			"target_compile_definitions",
+			"target_include_directories",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"Dependencies/Boost/libs/stacktrace/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 100,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_STACKTRACE_NO_LIB"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "BOOST_STACKTRACE_SOURCE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "BOOST_STACKTRACE_STATIC_LINK"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/stacktrace/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/config/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/container_hash/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/describe/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/mp11/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/core/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/assert/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/static_assert/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/throw_exception/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/predef/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "C:/Projects/DarkSpace/MessengerServer/Dependencies/Boost/libs/winapi/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					6,
+					6,
+					6,
+					6
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "boost_stacktrace_noop::@b1d18fac8450d2cf930d",
+	"name" : "boost_stacktrace_noop",
+	"nameOnDisk" : "libboost_stacktrace_noop-vc143-mt-gd-x64-1_88.lib",
+	"paths" : 
+	{
+		"build" : "Dependencies/Boost/libs/stacktrace",
+		"source" : "Dependencies/Boost/libs/stacktrace"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "Dependencies/Boost/libs/stacktrace/src/noop.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
