@@ -8,8 +8,12 @@ set(SOURCE
         App/main.cpp
         App/MainWindow.h
         App/MainWindow.cpp
-        App/StatusBarWidget.h
-        App/StatusBarWidget.cpp
+        App/TabWidget/TabWidget.h
+        App/TabWidget/TabWidget.cpp
+        App/ToolBar/ToolBarWidget.h
+        App/ToolBar/ToolBarWidget.cpp
+        App/StatusBar/StatusBarWidget.h
+        App/StatusBar/StatusBarWidget.cpp
 
         Server/Server.h
         Server/Server.cpp

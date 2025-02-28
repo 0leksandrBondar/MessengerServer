@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build Source\CMakeFiles\MessengerServer.dir\App\main.cpp.obj: dyndep
-
-build Source\CMakeFiles\MessengerServer.dir\App\MainWindow.cpp.obj: dyndep
-
-build Source\CMakeFiles\MessengerServer.dir\App\StatusBarWidget.cpp.obj: dyndep
-
-build Source\CMakeFiles\MessengerServer.dir\Server\Server.cpp.obj: dyndep
-
